@@ -1,0 +1,7 @@
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\bin\Debug\ABCCorp.exe.config
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\bin\Debug\ABCCorp.exe
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\bin\Debug\ABCCorp.pdb
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csprojAssemblyReference.cache
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\obj\Debug\ABCCorp.exe
+C:\Users\pulsinha\source\repos\ABCCorp\ABCCorp\obj\Debug\ABCCorp.pdb
