@@ -1,0 +1,6 @@
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\bin\Debug\XmlSerializationExample.exe.config
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\bin\Debug\XmlSerializationExample.exe
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\bin\Debug\XmlSerializationExample.pdb
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\obj\Debug\XmlSerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\obj\Debug\XmlSerializationExample.exe
+C:\Users\pulsinha\source\repos\XmlSerializationExample\XmlSerializationExample\obj\Debug\XmlSerializationExample.pdb
