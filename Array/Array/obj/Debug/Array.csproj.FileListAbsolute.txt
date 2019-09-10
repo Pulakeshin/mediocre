@@ -1,0 +1,7 @@
+c:\users\pulsinha\source\repos\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+c:\users\pulsinha\source\repos\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+c:\users\pulsinha\source\repos\Array\Array\bin\Debug\Array.exe.config
+c:\users\pulsinha\source\repos\Array\Array\bin\Debug\Array.exe
+c:\users\pulsinha\source\repos\Array\Array\bin\Debug\Array.pdb
+c:\users\pulsinha\source\repos\Array\Array\obj\Debug\Array.exe
+c:\users\pulsinha\source\repos\Array\Array\obj\Debug\Array.pdb
