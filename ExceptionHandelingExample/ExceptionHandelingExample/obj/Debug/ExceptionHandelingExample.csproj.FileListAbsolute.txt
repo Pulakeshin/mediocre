@@ -1,0 +1,7 @@
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\bin\Debug\ExceptionHandelingExample.exe.config
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\bin\Debug\ExceptionHandelingExample.exe
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\bin\Debug\ExceptionHandelingExample.pdb
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\obj\Debug\ExceptionHandelingExample.csprojAssemblyReference.cache
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\obj\Debug\ExceptionHandelingExample.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\obj\Debug\ExceptionHandelingExample.exe
+C:\Users\pulsinha\source\repos\ExceptionHandelingExample\ExceptionHandelingExample\obj\Debug\ExceptionHandelingExample.pdb
