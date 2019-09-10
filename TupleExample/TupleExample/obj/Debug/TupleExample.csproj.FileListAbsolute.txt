@@ -1,0 +1,7 @@
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\bin\Debug\TupleExample.exe.config
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\bin\Debug\TupleExample.exe
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\bin\Debug\TupleExample.pdb
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\obj\Debug\TupleExample.csprojAssemblyReference.cache
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\obj\Debug\TupleExample.csproj.CoreCompileInputs.cache
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\obj\Debug\TupleExample.exe
+c:\users\pulsinha\source\repos\TupleExample\TupleExample\obj\Debug\TupleExample.pdb
