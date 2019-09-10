@@ -1,0 +1,7 @@
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\bin\Debug\GarbageCollectionExample.exe.config
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\bin\Debug\GarbageCollectionExample.exe
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\bin\Debug\GarbageCollectionExample.pdb
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\obj\Debug\GarbageCollectionExample.csprojAssemblyReference.cache
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\obj\Debug\GarbageCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\obj\Debug\GarbageCollectionExample.exe
+C:\Users\pulsinha\source\repos\GarbageCollectionExample\GarbageCollectionExample\obj\Debug\GarbageCollectionExample.pdb
