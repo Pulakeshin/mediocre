@@ -1,0 +1,7 @@
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.exe.config
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.exe
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\bin\Debug\SymmetricEncryptionExample.pdb
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.csprojAssemblyReference.cache
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.exe
+C:\Users\pulsinha\source\repos\SymmetricEncryptionExample\SymmetricEncryptionExample\obj\Debug\SymmetricEncryptionExample.pdb
