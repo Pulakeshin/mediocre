@@ -1,0 +1,10 @@
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\bin\Debug\AssemblyExample.exe.config
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\bin\Debug\AssemblyExample.exe
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\bin\Debug\AssemblyExample.pdb
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\bin\Debug\ClassLibrary1.dll
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\bin\Debug\ClassLibrary1.pdb
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\obj\Debug\AssemblyExample.csprojAssemblyReference.cache
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\obj\Debug\AssemblyExample.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\obj\Debug\AssemblyExample.csproj.CopyComplete
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\obj\Debug\AssemblyExample.exe
+C:\Users\pulsinha\source\repos\AssemblyExample\AssemblyExample\obj\Debug\AssemblyExample.pdb
