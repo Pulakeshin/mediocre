@@ -1,0 +1,7 @@
+c:\users\pulsinha\source\repos\StringExample\StringExample\bin\Debug\StringExample.exe.config
+c:\users\pulsinha\source\repos\StringExample\StringExample\bin\Debug\StringExample.exe
+c:\users\pulsinha\source\repos\StringExample\StringExample\bin\Debug\StringExample.pdb
+c:\users\pulsinha\source\repos\StringExample\StringExample\obj\Debug\StringExample.csprojAssemblyReference.cache
+c:\users\pulsinha\source\repos\StringExample\StringExample\obj\Debug\StringExample.csproj.CoreCompileInputs.cache
+c:\users\pulsinha\source\repos\StringExample\StringExample\obj\Debug\StringExample.exe
+c:\users\pulsinha\source\repos\StringExample\StringExample\obj\Debug\StringExample.pdb
