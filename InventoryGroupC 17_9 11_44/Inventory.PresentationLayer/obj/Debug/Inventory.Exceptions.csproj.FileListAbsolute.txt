@@ -1,0 +1,12 @@
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\bin\Debug\Inventory.PresentationLayer.dll
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\bin\Debug\Inventory.PresentationLayer.pdb
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.Exceptions.csprojAssemblyReference.cache
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.PresentationLayer.dll
+C:\Users\Pulak Sinha\Documents\InventoryGroupC\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.PresentationLayer.pdb
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\bin\Debug\Inventory.PresentationLayer.dll
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\bin\Debug\Inventory.PresentationLayer.pdb
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.Exceptions.csprojAssemblyReference.cache
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.PresentationLayer.dll
+C:\Users\pulsinha\Desktop\Final Project Safe\safeFile-master\safeFile-master\safe file\InventoryGroupC\Inventory.PresentationLayer\obj\Debug\Inventory.PresentationLayer.pdb
