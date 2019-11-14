@@ -1,0 +1,44 @@
+exec TeamC.AddRawMaterial '82537e0b-4746-4cc8-a01d-f44e0311cca9', 'Guava', 20, 13, 14, 0
+exec TeamC.AddRawMaterial 'B3566B91-346D-41FB-8BC6-623398581F99', 'Apple', 50, 15, 4, 9
+exec TeamC.AddRawMaterial '2A0759EF-2C99-44EA-8A1B-6EFDC912D772', 'Banana', 21, 78, 47, 31
+exec TeamC.AddRawMaterial '581d8ffe-a0c7-414d-a1ed-d03d0f842dbb', 'Papaya', 32, 8, 17, 0
+exec TeamC.AddRawMaterial '79ef3419-5ddb-4b24-bbd4-fd20e1c9c18d', 'Mango', 45, 56, 42, 14
+
+
+
+exec TeamC.AddSupplier 'Astha','7691930106','astha@xyza.com','Astha@1234'	
+exec TeamC.AddSupplier 'Tanisha','9839117807','tanisha@xyz.com','Tanisha@123'	
+exec TeamC.AddSupplier 'Suhana','9839112345','suhana@xyz.com','Suhana@123'	
+exec TeamC.AddSupplier 'Sagar','8888965432','sagar@xyz.com','Sagar@123'	
+exec TeamC.AddSupplier 'Mohit','7778889931','mohit@xyz.com','Mohi@123'	
+exec TeamC.AddSupplier 'Shivam','9988776655','shivam@xyz.com','Shivam@123'	
+exec TeamC.AddSupplier 'Rohit','7788996655','rohit@xyz.com','Rohit@123'	
+
+
+exec TeamC.AddDistributor 'Scott','9865320147','scott@xyz.com','Scott@123'
+exec TeamC.AddDistributor 'Yolo','9856987410','yolo@xyz.com','Yolo@123'
+exec TeamC.AddDistributor 'Tom','7854896320','tom@xyz.com','Tom@123'
+exec TeamC.AddDistributor 'Sanju','7691967506','sanju@xyza.com','Sanju@1234'
+exec TeamC.AddDistributor 'Shivu','9876548895','shivu@xyz.com','Shivu@123'
+exec TeamC.AddDistributor 'Rahul','9856320125','rahul@xyz.com','Rahul@123'
+exec TeamC.AddDistributor 'Rick','9859630214','rick@xyz.com','Rick@123'
+exec TeamC.AddDistributor 'Sonii','8549632102','soni@xyz.com','Soni@123'
+exec TeamC.AddDistributor 'Rohit','8547852013','rohit@xyz.com','Rohit@123'
+exec TeamC.AddDistributor 'Mojo','7530148962','mojo@xyz.com','Mojo@123'
+
+
+exec TeamC.AddSupplierAddress '','Sayali CHS','Sector-9','Airoli','Maharashtra','400708'
+exec TeamC.AddSupplierAddress '','Pulakeshin CHS','Sector-5','Airoli','Maharashtra','400708'
+exec TeamC.AddSupplierAddress '','Newa Garden','Sector-20','Airoli','Maharashtra','400708'
+exec TeamC.AddSupplierAddress '','Vrindavan Apartment','Sector-19','Airoli','Maharashtra','400708'
+exec TeamC.AddSupplierAddress '','Samta Colony','Amanaka','Raipur','Chhattisgarh','400710'
+exec TeamC.AddSupplierAddress '','Kota','Telibandha','Raipur','Chhattisgarh','400710'
+exec TeamC.AddSupplierAddress '','PuriGhat','Amanaka','Raipur','Chhattisgarh','400710'
+
+exec TeamC.AddProduct 'Pineapple','Juice',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Apple','Juice',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Strawberry','Juice',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Guava', 'Juice',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Litchi', 'Juice',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Sprite', 'Soft Drink',40.00, 2019-11-06 00:00:00.000, 'Pass'
+exec TeamC.AddProduct 'Pepsi', 'Soft Drink',40.00, 2019-11-06 00:00:00.000, 'Pass'
